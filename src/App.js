@@ -6,9 +6,7 @@ import Products from "./components/Products";
 import Checkout from "./components/Checkout";
 import Thanks from "./components/Thanks";
 export const config = {
-  // endpoint: `http://${ipConfig.workspaceIp}:8082/api/v1`,
-  // endpoint: `https://qkart-frontend-anshuman.onrender.com/api/v1`,
-     endpoint: `https://alok-yadav-criodo-me-qkart-frontend-v2.onrender.com/api/v1`
+     endpoint: `https://qkart-qpq8.onrender.com/api/v1`
 
 };
 
